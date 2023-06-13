@@ -1,0 +1,10 @@
+* quickapp
+
+A common lisp project for generating template projects that use sbcl and buildapp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/triclops200/quickapp.git   |
+| commit  | 20e004d  |
+| systems | quickapp |
+|---------+-------------------------------------------|
+
