@@ -8,3 +8,4 @@ A common lisp project for generating template projects that use sbcl and buildap
 | systems | quickapp |
 |---------+-------------------------------------------|
 
+ 
